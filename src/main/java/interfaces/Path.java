@@ -1,7 +1,9 @@
 package interfaces;
 
 public interface Path {
-    public String FXML_PATH = "/fxml/";
-    public String DIV_PATH = "/pictures/div/";
-    public String PICS_PATH = "/pictures/";
+    String FXML_PATH = "/fxml/";
+    String DIV_PATH = "/pictures/div/";
+    String PICS_PATH = "/pictures/";
+    String MASTERY_PATH = "/pictures/mastery/";
+    String CHAMP_ICON_URL = "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/";
 }
