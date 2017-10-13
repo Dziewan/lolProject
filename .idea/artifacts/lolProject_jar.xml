@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="lolProject:jar">
+    <output-path>$USER_HOME$/Pulpit</output-path>
+    <root id="archive" name="lolProject.jar">
+      <element id="module-output" name="lolProject" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/rithms/riot-api-java/4.0.1/riot-api-java-4.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Pobrane/riot-api-java.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.5/gson-2.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
