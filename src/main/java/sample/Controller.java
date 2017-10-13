@@ -22,7 +22,7 @@ import java.util.*;
 
 
 public class Controller {
-    final String apiKey = "RGAPI-0d4ff7c3-c107-4358-a0d2-17629f6c8e6a";
+    final String apiKey = "RGAPI-b48fe1fa-38b2-4bdd-acaa-b99ba65a4d4f";
     final Platform platform = Platform.EUNE;
 
     Summoner summoner;
