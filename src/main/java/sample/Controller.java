@@ -35,85 +35,36 @@ public class Controller {
     ApiConfig apiConfig;
     RiotApi riotApi;
 
-    @FXML
-    TextArea textArea = new TextArea();
+    @FXML GridPane gridPane = new GridPane();
+    @FXML GridPane gridPane2 = new GridPane();
 
-    @FXML
-    TextArea name = new TextArea();
+    @FXML TextArea textArea = new TextArea();
+    @FXML TextArea name = new TextArea();
 
-    @FXML
-    Button player = new Button();
+    @FXML Button player = new Button();
 
-    @FXML
-    GridPane gridPane = new GridPane();
+    @FXML Label nck = new Label();
+    @FXML Label dywizja = new Label();
+    @FXML Label lev = new Label();
+    @FXML Label soloName = new Label();
+    @FXML Label flexName = new Label();
+    @FXML Label teamName = new Label();
 
-    @FXML
-    GridPane gridPane2 = new GridPane();
-
-    @FXML
-    Label nck = new Label();
-
-    @FXML
-    Label dywizja = new Label();
-
-    @FXML
-    Label lev = new Label();
-
-    @FXML
-    ImageView firstChamp = new ImageView();
-
-    @FXML
-    ImageView secondChamp = new ImageView();
-
-    @FXML
-    ImageView thirdChamp = new ImageView();
-
-    @FXML
-    ImageView firstChampMastery = new ImageView();
-
-    @FXML
-    ImageView secondChampMastery = new ImageView();
-
-    @FXML
-    ImageView thirdChampMastery = new ImageView();
-
-    @FXML
-    ImageView divSolo = new ImageView();
-
-    @FXML
-    ImageView divFlex = new ImageView();
-
-    @FXML
-    ImageView divFlexTeam = new ImageView();
-
-    @FXML
-    Label soloName = new Label();
-
-    @FXML
-    Label flexName = new Label();
-
-    @FXML
-    Label teamName = new Label();
+    @FXML ImageView firstChamp = new ImageView();
+    @FXML ImageView secondChamp = new ImageView();
+    @FXML ImageView thirdChamp = new ImageView();
+    @FXML ImageView firstChampMastery = new ImageView();
+    @FXML ImageView secondChampMastery = new ImageView();
+    @FXML ImageView thirdChampMastery = new ImageView();
+    @FXML ImageView divSolo = new ImageView();
+    @FXML ImageView divFlex = new ImageView();
+    @FXML ImageView divFlexTeam = new ImageView();
 
     public void initialize() throws RiotApiException {
         apiConfig = getApiConfig(apiKey);
         gridPane.setBackground(getBackgroundImage("lol"));
         riotApi = new RiotApi(apiConfig);
         textArea.setEditable(false);
-//        File dir = new File("/home/coderion/IdeaProjects/lolProject/src/main/resources/champs");
-//        for (final File f : dir.listFiles()) {
-//            String newName = f.getName() + ".png";
-//            try {
-//                File newfile = new File(newName);
-//                if (f.renameTo(newfile)) {
-//                    System.out.println("YES");
-//                } else {
-//                    System.out.println("NO");
-//                }
-//            } catch (Exception e) {
-//                e.printStackTrace();
-//            }
-//        }
     }
 
     public void getData() throws RiotApiException {
@@ -135,11 +86,11 @@ public class Controller {
         textArea.setText(generateData(divisions));
 
         firstChamp.setImage(getChampionIcon(championList.get(0)));
-        firstChampMastery.setImage(getMasteryImage(championMasteryList.get(0).getChampionLevel()));
+        if (championMasteryList.get(0).getChampionLevel() >= 5) firstChampMastery.setImage(getMasteryImage(championMasteryList.get(0).getChampionLevel()));
         secondChamp.setImage(getChampionIcon(championList.get(1)));
-        secondChampMastery.setImage(getMasteryImage(championMasteryList.get(1).getChampionLevel()));
+        if (championMasteryList.get(1).getChampionLevel() >= 5) secondChampMastery.setImage(getMasteryImage(championMasteryList.get(1).getChampionLevel()));
         thirdChamp.setImage(getChampionIcon(championList.get(2)));
-        thirdChampMastery.setImage(getMasteryImage(championMasteryList.get(2).getChampionLevel()));
+        if (championMasteryList.get(2).getChampionLevel() >= 5) thirdChampMastery.setImage(getMasteryImage(championMasteryList.get(2).getChampionLevel()));
 
         divSolo.setImage(getDivisionImage(divisions.tierSolo));
         divFlex.setImage(getDivisionImage(divisions.tierFlex));
