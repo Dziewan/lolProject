@@ -4,21 +4,37 @@ import interfaces.Default;
 import interfaces.Error;
 import interfaces.Format;
 import interfaces.Path;
+import javafx.event.ActionEvent;
+import javafx.event.EventHandler;
 import javafx.fxml.FXML;
+import javafx.fxml.FXMLLoader;
+import javafx.fxml.JavaFXBuilderFactory;
+import javafx.scene.Parent;
+import javafx.scene.Scene;
 import javafx.scene.control.Button;
+import javafx.scene.control.ComboBox;
 import javafx.scene.control.Label;
 import javafx.scene.control.TextArea;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 import javafx.scene.layout.*;
+import javafx.scene.text.Font;
+import javafx.scene.text.Text;
+import javafx.stage.Stage;
 import net.rithms.riot.api.*;
 import net.rithms.riot.api.endpoints.champion_mastery.dto.ChampionMastery;
 import net.rithms.riot.api.endpoints.runes.dto.RunePage;
 import net.rithms.riot.api.endpoints.runes.dto.RunePages;
+import net.rithms.riot.api.endpoints.runes.dto.RuneSlot;
+import net.rithms.riot.api.endpoints.static_data.constant.Locale;
+import net.rithms.riot.api.endpoints.static_data.dto.Rune;
+import net.rithms.riot.api.endpoints.static_data.dto.RuneList;
+import net.rithms.riot.api.endpoints.static_data.dto.RuneStats;
 import net.rithms.riot.api.endpoints.summoner.dto.Summoner;
 import net.rithms.riot.constant.Platform;
 
 import java.io.File;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStream;
 import java.net.URL;
@@ -28,12 +44,15 @@ import java.util.*;
 
 
 public class Controller {
-    final String apiKey = "RGAPI-5e176569-ed52-4910-954d-e400db3aa8f5";
-    final Platform platform = Platform.EUNE;
+
+    final String apiKey = Default.API_KEY;
+    public Platform platform = Platform.EUNE;
+    public String nick = "";
 
     Summoner summoner;
     ApiConfig apiConfig;
     RiotApi riotApi;
+
 
     @FXML GridPane gridPane = new GridPane();
     @FXML GridPane gridPane2 = new GridPane();
@@ -42,6 +61,7 @@ public class Controller {
     @FXML TextArea name = new TextArea();
 
     @FXML Button player = new Button();
+    @FXML Button runes = new Button();
 
     @FXML Label nck = new Label();
     @FXML Label dywizja = new Label();
@@ -60,11 +80,27 @@ public class Controller {
     @FXML ImageView divFlex = new ImageView();
     @FXML ImageView divFlexTeam = new ImageView();
 
-    public void initialize() throws RiotApiException {
+    public void initialize() {
         apiConfig = getApiConfig(apiKey);
         gridPane.setBackground(getBackgroundImage("lol"));
         riotApi = new RiotApi(apiConfig);
         textArea.setEditable(false);
+        runes.setOnAction(new EventHandler<ActionEvent>() {
+            @Override
+            public void handle(ActionEvent event) {
+                Parent root;
+                try {
+                    root = FXMLLoader.load(getClass().getResource(Path.FXML_PATH+"runes.fxml"));
+                    Stage primaryStage = new Stage();
+                    primaryStage.setTitle("Runy");
+                    primaryStage.setScene(new Scene(root, Default.RUN_PAGE_X, Default.RUN_PAGE_Y));
+                    primaryStage.show();
+                }
+                catch (IOException e) {
+                    e.printStackTrace();
+                }
+            }
+        });
     }
 
     public void getData() throws RiotApiException {
@@ -73,12 +109,13 @@ public class Controller {
             return;
         }
 
-        String nick = name.getText();
+        nick = name.getText();
+        writeFile(nick, "nickname");
+
         summoner = riotApi.getSummonerByName(platform, nick);
         Divisions divisions = new Divisions(platform, nick, apiKey);
         List<ChampionMastery> championMasteryList = riotApi.getChampionMasteriesBySummoner(platform, summoner.getId());
         List<String> championList = getThreeBestChampions(championMasteryList);
-
 
         lev.setText(summoner.getSummonerLevel()+"");
         dywizja.setText(divisions.tierSolo+" "+divisions.rankSolo);
@@ -103,6 +140,47 @@ public class Controller {
 
     }
 
+    public void getRunes() throws RiotApiException {
+        RunePages runes = riotApi.getRunesBySummoner(platform, summoner.getId());
+        Set<RunePage> pages = runes.getPages();
+        int i = 0;
+        RuneList runeList = riotApi.getDataRuneList(platform, Locale.PL_PL, "7.20.2");
+        for (RunePage page : pages) {
+            Set<RuneSlot> slots = page.getSlots();
+            int[] ids = new int[4];
+
+            int k = 0, cur = 0;
+            for (RuneSlot slot : slots) {
+                if (slot.getRuneId() != k) {
+                    ids[cur++] = slot.getRuneId();
+                }
+                k = slot.getRuneId();
+            }
+            Map<String, Rune> runeMap = runeList.getData();
+            String[] stats = new String[4];
+            int[] times = {9, 9, 9, 3};
+            for (int j = 0; j < 4; ++j) {
+                Rune rune = runeMap.get(ids[j] + "");
+                char[] desc = rune.getDescription().substring(1).replace(",", ".").toCharArray();
+                int p = 0;
+                StringBuilder value = new StringBuilder();
+                while (Character.isDigit(desc[p]) || desc[p] == '.') value.append(desc[p++]);
+                String val = "" + (times[j] * Double.valueOf(value.toString()));
+                VBox vBox = new VBox();
+                Label stat = new Label("" + rune.getDescription().charAt(0) + (val.length() > 4 ? val.substring(0, 4) : val) + rune.getDescription().substring(p));
+                stat.setFont(new Font(dywizja.getFont().getName(), 10));
+                stat.setEffect(dywizja.getEffect());
+                Label lab = new Label();
+                lab.setText(times[j] + "x");
+                lab.setFont(dywizja.getFont());
+                lab.setEffect(dywizja.getEffect());
+                ImageView iv = new ImageView(new Image("/runes/" + ids[j] + ".png"));
+                vBox.getChildren().addAll(lab, iv, stat);
+            }
+            if (i == 0) break;
+        }
+    }
+
     private Image getChampionIcon(String championName) {
         String champ = championName.toLowerCase().replace("'", "").replace(" ", "");
         return new Image(Path.CHAMP_ICON_PATH + champ + Format.PNG);
@@ -118,12 +196,7 @@ public class Controller {
     }
 
     private String generateData(Divisions divisions) {
-        String text = "Level : "+summoner.getSummonerLevel()+"\n"+"Nick : "+summoner.getName()+"\n";
-        text += "\nRank Solo : "+divisions.tierSolo+" "+divisions.rankSolo+"\n";
-        text += "Rank Flex : "+divisions.tierFlex+" "+divisions.rankFlex+"\n";
-        text += "Rank Team Flex : "+divisions.tierTeamFlex+" "+divisions.rankTeamFlex+"\n";
-
-        return text;
+        return "";
     }
 
     private ApiConfig getApiConfig(String apiKey) {
@@ -179,6 +252,7 @@ public class Controller {
     }
 
     private String getChampionNameById(int id) {
+
         switch (id) {
             case 266: return "Aatrox";
             case 412: return "Thresh";
@@ -315,5 +389,19 @@ public class Controller {
             case 81: return "Ezreal";
         }
         return "";
+    }
+
+    private void writeFile(String text, String fileName) {
+        try {
+            String str = text;
+            File newTextFile = new File(fileName + Format.TXT);
+
+            FileWriter fw = new FileWriter(newTextFile);
+            fw.write(str);
+            fw.close();
+
+        } catch (IOException iox) {
+            iox.printStackTrace();
+        }
     }
 }
