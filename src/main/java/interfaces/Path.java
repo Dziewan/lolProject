@@ -6,4 +6,5 @@ public interface Path {
     String PICS_PATH = "/pictures/";
     String MASTERY_PATH = "/pictures/mastery/";
     String CHAMP_ICON_PATH = "/champs/";
+    String RUNES_PATH = "/runes/";
 }

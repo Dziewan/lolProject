@@ -6,159 +6,20 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="visual update">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Aatrox.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Ahri.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Akali.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Alistar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Amumu.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Anivia.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Annie.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Ashe.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/AurelionSol.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Azir.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Bard.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Blitzcrank.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Brand.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Braum.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Caitlyn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Camille.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Cassiopeia.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Chogath.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Corki.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Darius.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Diana.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/DrMundo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Draven.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Ekko.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Elise.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Evelynn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Ezreal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Fiddlesticks.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Fiora.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Fizz.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Galio.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Gangplank.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Garen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Gnar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Gragas.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Graves.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Hecarim.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Heimerdinger.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Illaoi.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Irelia.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Ivern.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Janna.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/JarvanIV.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Jax.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Jayce.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Jhin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Jinx.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Kalista.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Karma.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Karthus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Kassadin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Katarina.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Kayle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Kayn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Kennen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Khazix.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Kindred.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Kled.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/KogMaw.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Leblanc.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/LeeSin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Leona.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Lissandra.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Lucian.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Lulu.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Lux.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Malphite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Malzahar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Maokai.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/MasterYi.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/MissFortune.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/MonkeyKing.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Mordekaiser.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Morgana.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Nami.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Nasus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Nautilus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Nidalee.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Nocturne.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Nunu.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Olaf.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Orianna.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Pantheon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Poppy.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Quinn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Rakan.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Rammus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/RekSai.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Renekton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Rengar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Riven.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Rumble.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Ryze.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Sejuani.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Shaco.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Shen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Shyvana.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Singed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Sion.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Sivir.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Skarner.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Sona.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Soraka.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Swain.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Syndra.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/TahmKench.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Taliyah.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Talon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Taric.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Teemo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Thresh.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Tristana.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Trundle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Tryndamere.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/TwistedFate.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Twitch.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Udyr.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Urgot.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Varus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Vayne.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Veigar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Velkoz.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Vi.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Viktor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Vladimir.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Volibear.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Warwick.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Xayah.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Xerath.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/XinZhao.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Yasuo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Yorick.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Zac.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Zed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Ziggs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Zilean.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/champs/Zyra.png" afterPath="" />
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="Added Rune Checker">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/interfaces/Error.class" afterPath="$PROJECT_DIR$/target/classes/interfaces/Error.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/interfaces/Format.class" afterPath="$PROJECT_DIR$/target/classes/interfaces/Format.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/interfaces/Path.class" afterPath="$PROJECT_DIR$/target/classes/interfaces/Path.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/sample/Controller.class" afterPath="$PROJECT_DIR$/target/classes/sample/Controller.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/sample/Divisions$1.class" afterPath="$PROJECT_DIR$/target/classes/sample/Divisions$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/sample/Divisions$2.class" afterPath="$PROJECT_DIR$/target/classes/sample/Divisions$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/sample/Divisions$ExtendedSummoner.class" afterPath="$PROJECT_DIR$/target/classes/sample/Divisions$ExtendedSummoner.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/sample/Divisions.class" afterPath="$PROJECT_DIR$/target/classes/sample/Divisions.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/sample/Main.class" afterPath="$PROJECT_DIR$/target/classes/sample/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/lolProject_jar.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/lolProject_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lolProject.iml" afterPath="$PROJECT_DIR$/lolProject.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/sample/Controller.java" afterPath="$PROJECT_DIR$/src/main/java/sample/Controller.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/interfaces/Default.java" afterPath="$PROJECT_DIR$/src/main/java/interfaces/Default.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/interfaces/Error.java" afterPath="$PROJECT_DIR$/src/main/java/interfaces/Error.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/interfaces/Format.java" afterPath="$PROJECT_DIR$/src/main/java/interfaces/Format.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/interfaces/Path.java" afterPath="$PROJECT_DIR$/src/main/java/interfaces/Path.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/fxml/runes.fxml" afterPath="$PROJECT_DIR$/src/main/resources/fxml/runes.fxml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/fxml/sample.fxml" afterPath="$PROJECT_DIR$/src/main/resources/fxml/sample.fxml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/fxml/sample.fxml" afterPath="$PROJECT_DIR$/target/classes/fxml/sample.fxml" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -217,11 +78,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Controller.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sample/Controller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="48" column="44" lean-forward="false" selection-start-line="48" selection-start-column="44" selection-end-line="48" selection-end-column="44" />
+              <folding>
+                <element signature="method#getRunes#0;class#Controller#0" expanded="false" />
+                <element signature="method#getChampionIcon#0;class#Controller#0" expanded="false" />
+                <element signature="method#getDivisionImage#0;class#Controller#0" expanded="false" />
+                <element signature="method#getThreeBestChampions#0;class#Controller#0" expanded="false" />
+                <element signature="method#getBackgroundImage#0;class#Controller#0" expanded="false" />
+                <element signature="method#setSize#0;class#Controller#0" expanded="false" />
+                <element signature="method#getChampionNameById#0;class#Controller#0" expanded="false" />
+                <element signature="method#writeFile#0;class#Controller#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Format.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/interfaces/Format.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RunesController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sample/RunesController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="430">
+              <caret line="80" column="41" lean-forward="true" selection-start-line="80" selection-start-column="41" selection-end-line="80" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#initRuneMap#0;class#RunesController#0" expanded="false" />
+                <element signature="method#choosePage#0;class#RunesController#0" expanded="false" />
+                <element signature="method#clearList#0;class#RunesController#0" expanded="false" />
+                <element signature="method#getBackgroundImage#0;class#RunesController#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/sample/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="15" column="38" lean-forward="false" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+            <state relative-caret-position="136">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -229,65 +135,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Controller.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sample/Controller.java">
+      <file leaf-file-name="Default.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/interfaces/Default.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="66" column="36" lean-forward="true" selection-start-line="66" selection-start-column="36" selection-end-line="66" selection-end-column="36" />
-              <folding>
-                <element signature="method#getChampionIcon#0;class#Controller#0" expanded="false" />
-                <element signature="method#getDivisionImage#0;class#Controller#0" expanded="false" />
-                <element signature="method#generateData#0;class#Controller#0" expanded="false" />
-                <element signature="method#getThreeBestChampions#0;class#Controller#0" expanded="false" />
-                <element signature="method#getBackgroundImage#0;class#Controller#0" expanded="false" />
-                <element signature="method#setSize#0;class#Controller#0" expanded="false" />
-                <element signature="method#getChampionNameById#0;class#Controller#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Divisions.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sample/Divisions.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="986">
-              <caret line="83" column="0" lean-forward="true" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+            <state relative-caret-position="204">
+              <caret line="12" column="66" lean-forward="false" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="37" lean-forward="false" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Path.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/interfaces/Path.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sample.fxml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/sample.fxml">
-          <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
+      <file leaf-file-name="runes.fxml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/runes.fxml">
+          <provider editor-type-id="JavaFX-Scene-Builder">
             <state />
           </provider>
-          <provider editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="32" column="3" lean-forward="false" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
-              <folding>
-                <marker date="1507808602164" expanded="true" signature="8579:8607" ph="..." />
-              </folding>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="46" lean-forward="false" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -297,8 +163,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -316,6 +183,15 @@
       <find>ImageView</find>
       <find>yi</find>
       <find>div</find>
+      <find>summoner</find>
+      <find>Combo</find>
+      <find>getRuneLis</find>
+      <find>runePane</find>
+      <find>g</find>
+      <find>bold</find>
+      <find>Arial</find>
+      <find>platform</find>
+      <find>EUNE</find>
     </findStrings>
   </component>
   <component name="FindManager">
@@ -324,6 +200,7 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="REBASE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -343,13 +220,21 @@
         <option value="$PROJECT_DIR$/src/main/java/sample/Path.java" />
         <option value="$PROJECT_DIR$/src/main/java/Interfaces/Format.java" />
         <option value="$PROJECT_DIR$/src/main/java/Interfaces/Path.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/interfaces/Error.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sample/RunePositions.java" />
         <option value="$PROJECT_DIR$/src/main/resources/fxml/sample.fxml" />
-        <option value="$PROJECT_DIR$/src/main/java/interfaces/Default.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/fxml/runes.fxml" />
+        <option value="$PROJECT_DIR$/src/main/java/sample/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sample/ModelDto.java" />
         <option value="$PROJECT_DIR$/src/main/java/sample/Divisions.java" />
         <option value="$PROJECT_DIR$/src/main/java/interfaces/Path.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/sample/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sample/Model.java" />
+        <option value="$PROJECT_DIR$/nickname.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/interfaces/Default.java" />
+        <option value="$PROJECT_DIR$/src/main/java/interfaces/Format.java" />
         <option value="$PROJECT_DIR$/src/main/java/sample/Controller.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sample/RunesController.java" />
       </list>
     </option>
   </component>
@@ -367,9 +252,9 @@
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds">
-    <option name="x" value="6" />
-    <option name="width" value="1914" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1" />
+    <option name="width" value="1922" />
     <option name="height" value="1053" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -393,6 +278,8 @@
     <panes>
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -442,6 +329,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lolProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lolProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="sample" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -457,7 +352,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="champs" type="462c0819:PsiDirectoryNode" />
+              <item name="fxml" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lolProject" type="b2602c69:ProjectViewProjectNode" />
@@ -473,8 +368,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="pictures" type="462c0819:PsiDirectoryNode" />
-              <item name="mastery" type="462c0819:PsiDirectoryNode" />
+              <item name="runes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lolProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lolProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lolProject" type="b2602c69:ProjectViewProjectNode" />
@@ -497,8 +397,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -514,22 +412,23 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/resources" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources/champs" />
       <recent name="$PROJECT_DIR$/src/main/resources/pictures" />
       <recent name="$PROJECT_DIR$/src/main/resources/fxml" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/fxml" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -703,7 +602,13 @@
       <workItem from="1507729131830" duration="17899000" />
       <workItem from="1507808080947" duration="3098000" />
       <workItem from="1507878350910" duration="15724000" />
-      <workItem from="1507904438842" duration="3087000" />
+      <workItem from="1507904438842" duration="5987000" />
+      <workItem from="1507962330733" duration="3369000" />
+      <workItem from="1507967585461" duration="6309000" />
+      <workItem from="1508222162066" duration="20552000" />
+      <workItem from="1508313369345" duration="18959000" />
+      <workItem from="1508336929121" duration="4791000" />
+      <workItem from="1508357972150" duration="47000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1507813195457</created>
@@ -740,37 +645,44 @@
       <option name="project" value="LOCAL" />
       <updated>1507890334031</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="visual update">
+      <created>1507907538629</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1507907538629</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64885000" />
+    <option name="totallyTimeSpent" value="121812000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="6" y="0" width="1914" height="1053" extended-state="0" />
+    <frame x="-1" y="0" width="1922" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3271795" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32615715" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31754574" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32723358" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32508072" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32723358" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20310825" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21291356" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3979487" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39644352" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -779,12 +691,13 @@
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299285" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -792,31 +705,35 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39979014" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39644352" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843652" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32635984" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32040817" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3253138" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32723358" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17395833" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20864461" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299285" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
@@ -834,11 +751,20 @@
     <MESSAGE value="riot update" />
     <MESSAGE value="icons update" />
     <MESSAGE value="visual update" />
-    <option name="LAST_COMMIT_MESSAGE" value="visual update" />
+    <MESSAGE value="Added Rune Checker" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Rune Checker" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="40" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/sample/RunesController.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="106" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -847,324 +773,353 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/Pobrane/riot-api-java.jar!/net/rithms/riot/api/ApiMethod.class" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/pictures/lol.png">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/rithms/riot-api-java/4.0.1/riot-api-java-4.0.1.jar!/net/rithms/riot/api/endpoints/static_data/constant/RuneListTags.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/rithms/riot-api-java/4.0.1/riot-api-java-4.0.1.jar!/net/rithms/riot/api/endpoints/runes/RunesApiMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Pobrane/riot-api-java.jar!/net/rithms/riot/api/endpoints/runes/RunesApiMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Pobrane/riot-api-java.jar!/net/rithms/riot/api/endpoints/static_data/dto/RuneStats.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2074">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/rithms/riot-api-java/4.0.1/riot-api-java-4.0.1.jar!/net/rithms/riot/api/endpoints/static_data/dto/RuneList.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/rithms/riot-api-java/4.0.1/riot-api-java-4.0.1.jar!/net/rithms/riot/api/endpoints/match/dto/MatchTimeline.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Pobrane/riot-api-java.jar!/net/rithms/riot/api/endpoints/match/dto/MatchPosition.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Pobrane/riot-api-java.jar!/net/rithms/riot/api/endpoints/match/dto/MatchParticipantFrame.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Pobrane/riot-api-java.jar!/net/rithms/riot/api/endpoints/match/dto/MatchFrame.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Pobrane/riot-api-java.jar!/net/rithms/riot/api/endpoints/match/dto/MatchTimeline.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/pictures/runePage.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.5/gson-2.5.jar!/com/google/gson/annotations/SerializedName.class">
+    <entry file="jar://$USER_HOME$/Programs/jdk1.8.0_131/javafx-src.zip!/javafx/fxml/FXML.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        <state relative-caret-position="204">
+          <caret line="38" column="18" lean-forward="false" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/Pobrane/riot-api-java.jar!/net/rithms/riot/api/request/RiotApiErrorStatus.class" />
-    <entry file="jar://$USER_HOME$/Pobrane/riot-api-java.jar!/net/rithms/riot/api/request/RiotApiError.class" />
-    <entry file="jar://$USER_HOME$/Pobrane/riot-api-java.jar!/net/rithms/riot/api/RiotApiException.class" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/interfaces/Error.java">
+    <entry file="jar://$USER_HOME$/Programs/jdk1.8.0_131/javafx-src.zip!/javafx/geometry/Bounds.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-          <folding />
+        <state relative-caret-position="-1887">
+          <caret line="116" column="48" lean-forward="true" selection-start-line="116" selection-start-column="48" selection-end-line="116" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interfaces/Format.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/runes/5074.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/Programs/jdk1.8.0_131/javafx-src.zip!/javafx/scene/text/Font.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/runes/5001.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/runes/5002.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/runes/5016.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/runes/5015.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/runes/5013.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/runes/5012.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/runes/5011.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/runes/5009.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/runes/5007.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/runes/5005.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/runes/5003.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Pobrane/riot-api-java.jar!/net/rithms/riot/api/endpoints/static_data/dto/Rune.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="57" column="19" lean-forward="false" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
+        <state relative-caret-position="153">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/Programs/jdk1.8.0_131/javafx-src.zip!/javafx/scene/Node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1961">
-          <caret line="383" column="22" lean-forward="false" selection-start-line="383" selection-start-column="22" selection-end-line="383" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Pobrane/riot-api-java.jar!/net/rithms/riot/api/endpoints/spectator/dto/CurrentGameInfo.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Pobrane/riot-api-java.jar!/SummonerExample.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Pobrane/riot-api-java.jar!/MatchListExample.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Pobrane/riot-api-java.jar!/StaticDataWithLocaleExample.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="24" column="42" lean-forward="true" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Pobrane/riot-api-java.jar!/AsyncExample.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-792">
-          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Programs/jdk1.8.0_131/javafx-src.zip!/javafx/scene/layout/Region.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="1176" column="24" lean-forward="false" selection-start-line="1176" selection-start-column="24" selection-end-line="1176" selection-end-column="24" />
+        <state relative-caret-position="200">
+          <caret line="8413" column="0" lean-forward="false" selection-start-line="8413" selection-start-column="0" selection-end-line="8413" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/Pobrane/riot-api-java.jar!/net/rithms/riot/api/EndpointManager.class">
+    <entry file="jar://$USER_HOME$/Programs/jdk1.8.0_131/javafx-src.zip!/javafx/event/Event.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="37" column="10" lean-forward="false" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
+        <state relative-caret-position="412">
+          <caret line="198" column="0" lean-forward="false" selection-start-line="198" selection-start-column="0" selection-end-line="198" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/github/rithms/riot-api-java/4.0.1/riot-api-java-4.0.1.jar!/net/rithms/riot/api/endpoints/champion_mastery/methods/GetChampionMasteryScoresBySummoner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="17" column="34" lean-forward="false" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-        </state>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/sample.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
       </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Pobrane/riot-api-java.jar!/net/rithms/riot/api/endpoints/champion/dto/Champion.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Pobrane/riot-api-java.jar!/net/rithms/riot/api/endpoints/champion/dto/ChampionList.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Programs/jdk1.8.0_131/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="543" column="6" lean-forward="false" selection-start-line="543" selection-start-column="6" selection-end-line="543" selection-end-column="6" />
+        <state relative-caret-position="2941">
+          <caret line="173" column="37" lean-forward="false" selection-start-line="173" selection-start-column="37" selection-end-line="173" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/Pobrane/riot-api-java.jar!/net/rithms/riot/api/endpoints/static_data/dto/Info.class">
+    <entry file="jar://$USER_HOME$/Programs/jdk1.8.0_131/javafx-src.zip!/javafx/scene/layout/Pane.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="395">
+          <caret line="140" column="42" lean-forward="false" selection-start-line="140" selection-start-column="42" selection-end-line="140" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/Pobrane/riot-api-java.jar!/net/rithms/riot/api/endpoints/static_data/dto/Recommended.class">
+    <entry file="jar://$USER_HOME$/Programs/jdk1.8.0_131/javafx-src.zip!/javafx/scene/control/ComboBox.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="182">
+          <caret line="464" column="0" lean-forward="false" selection-start-line="464" selection-start-column="0" selection-end-line="464" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interfaces/Default.java" />
-    <entry file="file://$PROJECT_DIR$/riot.txt">
+    <entry file="jar://$USER_HOME$/Programs/jdk1.8.0_131/javafx-src.zip!/javafx/scene/control/ComboBoxBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Pobrane/riot-api-java.jar!/net/rithms/riot/api/endpoints/summoner/dto/Summoner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Programs/jdk1.8.0_131/javafx-src.zip!/javafx/scene/control/TextInputControl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="367" column="22" lean-forward="false" selection-start-line="367" selection-start-column="22" selection-end-line="367" selection-end-column="22" />
+        <state relative-caret-position="182">
+          <caret line="149" column="41" lean-forward="false" selection-start-line="149" selection-start-column="41" selection-end-line="149" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/Pobrane/riot-api-java.jar!/net/rithms/riot/api/endpoints/champion_mastery/methods/GetChampionMasteriesBySummoner.class">
+    <entry file="jar://$USER_HOME$/Programs/jdk1.8.0_131/javafx-src.zip!/javafx/beans/property/ObjectPropertyBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="174">
+          <caret line="147" column="0" lean-forward="false" selection-start-line="147" selection-start-column="0" selection-end-line="147" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/Pobrane/riot-api-java.jar!/net/rithms/riot/api/request/AsyncRequest.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Pobrane/riot-api-java.jar!/net/rithms/riot/api/RiotApiAsync.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="149" column="15" lean-forward="true" selection-start-line="149" selection-start-column="15" selection-end-line="149" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/champions/akali.png" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/champions/aatrox.png" />
-    <entry file="jar://$USER_HOME$/Pobrane/riot-api-java.jar!/net/rithms/riot/api/endpoints/champion_mastery/dto/ChampionMastery.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Pobrane/riot-api-java.jar!/net/rithms/riot/api/endpoints/static_data/dto/Champion.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Pobrane/riot-api-java.jar!/net/rithms/riot/api/endpoints/static_data/dto/ChampionList.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Programs/jdk1.8.0_131/src.zip!/java/io/File.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="1384" column="19" lean-forward="false" selection-start-line="1384" selection-start-column="19" selection-end-line="1384" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/champs/aatrox" />
-    <entry file="file://$PROJECT_DIR$/nautilus.png" />
-    <entry file="jar://$USER_HOME$/Programs/jdk1.8.0_131/javafx-src.zip!/javafx/fxml/FXMLLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3195">
-          <caret line="2565" column="0" lean-forward="false" selection-start-line="2565" selection-start-column="0" selection-end-line="2565" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/champs/ahri.png">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/runes/5021.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/champs/aatrox.png">
+    <entry file="jar://$USER_HOME$/Pobrane/riot-api-java.jar!/net/rithms/riot/api/endpoints/static_data/dto/RuneList.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="92" lean-forward="false" selection-start-line="7" selection-start-column="92" selection-end-line="7" selection-end-column="93" />
+        <state relative-caret-position="102">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF">
+    <entry file="jar://$USER_HOME$/Programs/jdk1.8.0_131/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="398">
+          <caret line="33" column="33" lean-forward="false" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/ModelDto.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/runes.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="46" lean-forward="false" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Programs/jdk1.8.0_131/javafx-src.zip!/javafx/fxml/FXMLLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="926" column="0" lean-forward="false" selection-start-line="926" selection-start-column="0" selection-end-line="926" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/sample/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="15" column="38" lean-forward="false" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        <state relative-caret-position="136">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/pictures/mastery/6.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/nickname.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/interfaces/Path.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        <state relative-caret-position="136">
+          <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/champs/velkoz.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/sample/Divisions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="986">
-          <caret line="83" column="0" lean-forward="true" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+        <state relative-caret-position="519">
+          <caret line="94" column="63" lean-forward="false" selection-start-line="94" selection-start-column="63" selection-end-line="94" selection-end-column="63" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/Pobrane/riot-api-java.jar!/net/rithms/riot/api/RiotApi.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/Model.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/RunePositions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="489" column="20" lean-forward="false" selection-start-line="489" selection-start-column="20" selection-end-line="489" selection-end-column="20" />
+        <state relative-caret-position="102">
+          <caret line="6" column="41" lean-forward="false" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/interfaces/Default.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="37" lean-forward="false" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+        <state relative-caret-position="204">
+          <caret line="12" column="66" lean-forward="false" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/sample.fxml">
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
-        <state />
+    <entry file="file://$PROJECT_DIR$/src/main/java/interfaces/Format.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+          <folding />
+        </state>
       </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="32" column="3" lean-forward="false" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
-          <folding>
-            <marker date="1507808602164" expanded="true" signature="8579:8607" ph="..." />
-          </folding>
+    </entry>
+    <entry file="jar://$USER_HOME$/Programs/jdk1.8.0_131/javafx-src.zip!/javafx/scene/text/Font.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3269">
+          <caret line="57" column="19" lean-forward="false" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/sample/Controller.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="66" column="36" lean-forward="true" selection-start-line="66" selection-start-column="36" selection-end-line="66" selection-end-column="36" />
+        <state relative-caret-position="136">
+          <caret line="48" column="44" lean-forward="false" selection-start-line="48" selection-start-column="44" selection-end-line="48" selection-end-column="44" />
           <folding>
+            <element signature="method#getRunes#0;class#Controller#0" expanded="false" />
             <element signature="method#getChampionIcon#0;class#Controller#0" expanded="false" />
             <element signature="method#getDivisionImage#0;class#Controller#0" expanded="false" />
-            <element signature="method#generateData#0;class#Controller#0" expanded="false" />
             <element signature="method#getThreeBestChampions#0;class#Controller#0" expanded="false" />
             <element signature="method#getBackgroundImage#0;class#Controller#0" expanded="false" />
             <element signature="method#setSize#0;class#Controller#0" expanded="false" />
             <element signature="method#getChampionNameById#0;class#Controller#0" expanded="false" />
+            <element signature="method#writeFile#0;class#Controller#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/pictures/emptyRunePage.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/RunesController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="80" column="41" lean-forward="true" selection-start-line="80" selection-start-column="41" selection-end-line="80" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#initRuneMap#0;class#RunesController#0" expanded="false" />
+            <element signature="method#choosePage#0;class#RunesController#0" expanded="false" />
+            <element signature="method#clearList#0;class#RunesController#0" expanded="false" />
+            <element signature="method#getBackgroundImage#0;class#RunesController#0" expanded="false" />
           </folding>
         </state>
       </provider>

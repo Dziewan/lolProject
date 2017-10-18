@@ -7,16 +7,18 @@
 <?import javafx.scene.image.ImageView?>
 <?import javafx.scene.layout.ColumnConstraints?>
 <?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
 <?import javafx.scene.layout.RowConstraints?>
 <?import javafx.scene.text.Font?>
 
 <GridPane fx:id="gridPane" alignment="center" hgap="10" vgap="10.0" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
    <columnConstraints>
-      <ColumnConstraints />
-      <ColumnConstraints />
+      <ColumnConstraints maxWidth="435.0" minWidth="51.0" prefWidth="286.0" />
+      <ColumnConstraints maxWidth="517.0" minWidth="133.0" prefWidth="282.0" />
       <ColumnConstraints />
    </columnConstraints>
    <rowConstraints>
+      <RowConstraints />
       <RowConstraints />
       <RowConstraints />
       <RowConstraints />
@@ -179,5 +181,6 @@
             </Label>
          </children>
       </GridPane>
+      <Button fx:id="runes" mnemonicParsing="false" onAction="#getRunes" text="Runy" GridPane.rowIndex="8" />
    </children>
 </GridPane>
