@@ -38,26 +38,24 @@ import java.util.List;
 public class RunesController {
 
     final String apiKey = Default.API_KEY;
-    Platform platform = Platform.EUNE;
+    static Model model;
     Summoner summoner;
     ApiConfig apiConfig;
     RiotApi riotApi;
     RunePages runePages;
     Set<RunePage> pages;
     Map<String, String> runeMap;
-    String nick;
 
     @FXML GridPane runePane = new GridPane();
 
     @FXML ComboBox pageChooser = new ComboBox();
 
     public void initialize() throws FileNotFoundException {
-        nick = readFile("nickname");
         runeMap = initRuneMap();
         apiConfig = getApiConfig(apiKey);
         riotApi = new RiotApi(apiConfig);
         try {
-            summoner = riotApi.getSummonerByName(platform, nick);
+            summoner = riotApi.getSummonerByName(model.getPlatform(), model.getSummonerName());
         } catch (RiotApiException e) {
 
         }
@@ -77,7 +75,7 @@ public class RunesController {
 
     public void initRuneData() {
         try {
-            runePages = riotApi.getRunesBySummoner(platform, summoner.getId());
+            runePages = riotApi.getRunesBySummoner(model.getPlatform(), summoner.getId());
             pages = runePages.getPages();
         } catch (RiotApiException e) {
             System.out.println(e.getErrorCode()+" "+e.getMessage());
@@ -202,16 +200,6 @@ public class RunesController {
 
     private ApiConfig getApiConfig(String apiKey) {
         return new ApiConfig().setKey(apiKey);
-    }
-
-    private String readFile(String filename) throws FileNotFoundException {
-        Scanner in = new Scanner(new FileReader(filename + Format.TXT));
-        StringBuilder sb = new StringBuilder();
-        while(in.hasNext()) {
-            sb.append(in.next());
-        }
-        in.close();
-        return sb.toString();
     }
 }
 

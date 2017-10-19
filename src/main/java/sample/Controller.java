@@ -48,6 +48,7 @@ public class Controller {
     final String apiKey = Default.API_KEY;
     public Platform platform = Platform.EUNE;
     public String nick = "";
+    static Model model;
 
     Summoner summoner;
     ApiConfig apiConfig;
@@ -110,7 +111,8 @@ public class Controller {
         }
 
         nick = name.getText();
-        writeFile(nick, "nickname");
+        model.setPlatform(platform);
+        model.setSummonerName(nick);
 
         summoner = riotApi.getSummonerByName(platform, nick);
         Divisions divisions = new Divisions(platform, nick, apiKey);
@@ -389,19 +391,5 @@ public class Controller {
             case 81: return "Ezreal";
         }
         return "";
-    }
-
-    private void writeFile(String text, String fileName) {
-        try {
-            String str = text;
-            File newTextFile = new File(fileName + Format.TXT);
-
-            FileWriter fw = new FileWriter(newTextFile);
-            fw.write(str);
-            fw.close();
-
-        } catch (IOException iox) {
-            iox.printStackTrace();
-        }
     }
 }
