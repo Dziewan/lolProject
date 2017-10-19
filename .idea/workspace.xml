@@ -6,12 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="Added Rune Checker">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/sample/Model.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/sample/Controller.class" afterPath="$PROJECT_DIR$/target/classes/sample/Controller.class" />
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/sample/Controller.java" afterPath="$PROJECT_DIR$/src/main/java/sample/Controller.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/sample/RunesController.java" afterPath="$PROJECT_DIR$/src/main/java/sample/RunesController.java" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -73,8 +69,8 @@
       <file leaf-file-name="Controller.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/sample/Controller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="95" column="50" lean-forward="true" selection-start-line="95" selection-start-column="50" selection-end-line="95" selection-end-column="50" />
+            <state relative-caret-position="357">
+              <caret line="97" column="17" lean-forward="false" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="17" />
               <folding>
                 <element signature="method#getRunes#0;class#Controller#0" expanded="false" />
                 <element signature="method#getChampionIcon#0;class#Controller#0" expanded="false" />
@@ -620,7 +616,7 @@
       <workItem from="1508336929121" duration="4791000" />
       <workItem from="1508357972150" duration="47000" />
       <workItem from="1508397841351" duration="124000" />
-      <workItem from="1508398017013" duration="1806000" />
+      <workItem from="1508398017013" duration="1928000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1507813195457</created>
@@ -664,11 +660,18 @@
       <option name="project" value="LOCAL" />
       <updated>1507907538629</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Model Dto">
+      <created>1508399842877</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1508399842877</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123742000" />
+    <option name="totallyTimeSpent" value="123864000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1919" y="0" width="1922" height="1080" extended-state="6" />
@@ -764,7 +767,8 @@
     <MESSAGE value="icons update" />
     <MESSAGE value="visual update" />
     <MESSAGE value="Added Rune Checker" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Rune Checker" />
+    <MESSAGE value="Model Dto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Model Dto" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1128,8 +1132,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/sample/Controller.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="95" column="50" lean-forward="true" selection-start-line="95" selection-start-column="50" selection-end-line="95" selection-end-column="50" />
+        <state relative-caret-position="357">
+          <caret line="97" column="17" lean-forward="false" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="17" />
           <folding>
             <element signature="method#getRunes#0;class#Controller#0" expanded="false" />
             <element signature="method#getChampionIcon#0;class#Controller#0" expanded="false" />
